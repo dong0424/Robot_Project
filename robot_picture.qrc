@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>picture/Humanoid_Picture.jpg</file>
+  </qresource>
+</RCC>
